@@ -47,5 +47,10 @@ This project implements user authentication and authorization using Bearer token
 ## Postman Documentation URL
 [Postman Documentation URL:](https://documenter.getpostman.com/view/33967457/2sAYHzJ42S)
 
-##Endpoints
+## Endpoints
 
+- `post /api/v1/register` - to register the user.
+- `post /api/v1/login` - after the user registration the user can login to access the user's detail.
+- `post /api/v1/logout` - user can logout
+- `get /api/v1/userdetails` - user can get the details after the user login
+  
