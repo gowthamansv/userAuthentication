@@ -20,8 +20,8 @@ This project implements user authentication and authorization using Bearer token
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/gowthamansv/userAuthentication.git
+   cd userAuthetication
 
 2. Install dependencies:
 
